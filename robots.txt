@@ -1,0 +1,5 @@
+# Allow crawling all
+User-agent: *
+User-agent: AdsBot-Google
+Allow: /
+
