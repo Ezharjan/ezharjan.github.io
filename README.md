@@ -32,7 +32,7 @@
 
 * Aizierjiang Aiersilan. AIGS: AI Generated Scenarios via In-Context Learning for the Safety Evaluation of Autonomous Vehicles, _`M.Sc.`Thesis._
 
-* Aizierjiang Aiersilan. A 3D Framework for Improving Low-Latency Multi-Channel Live Streaming. _Submitted_ to ICASSP2025.
+* Aizierjiang Aiersilan. [A 3D Framework for Improving Low-Latency Multi-Channel Live Streaming](https://arxiv.org/abs/2410.16284v1). _Submitted_ to ICASSP2025.
 
 * Aizierjiang Aiersilan. [Literature Review of Mixed Reality Research](https://arxiv.org/abs/2312.02995). _Accepted_ by ESSC2024.
 
